@@ -1,5 +1,5 @@
 # 2-Norm of a matrix
-## Aim
+## Aim:
 To write a program to find the 2-norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
 1.	Hardware – PCs
@@ -29,5 +29,5 @@ print("{:.2f}".format(val))
 ## Output:
 ![norm1](1.png)
 
-## Result
+## Result:
 Thus the program for 2-norm of a matrix is written and verified.
